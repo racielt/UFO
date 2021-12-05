@@ -1,12 +1,12 @@
 # UFO Sightings.
 
-##Overview of Project: 
+## Overview of Project: 
 
 The purpose of this analysis is to provide a in-depth analysis of UFO sightings. With the help of javascript and an html page, the user will be able to have a table with the information about the sightings, being able to filter the information by city, state, country, shape, or date.
 
 This will help the user to have the accessibility and only focused on the information that will be needed, instead of having to search in all the data.
 
-##Results
+## Results
 
 When the user use the UFO sightings project, the user will have a filter search for each category, date, city, state, country and shape
 
@@ -35,7 +35,7 @@ The city, state and country filter behave almost the same, the page give us an e
 Finally the shape filter referred to the shape of the sighting, the example that the page use is a no-common shape (light), the user have to be aware of the different types of sighting shapes the data has.
 
 
-##Summary
+## Summary
 
 One drawback of our project is that if a user is not familiarized with the information that is used to filter the table, the user wouldn’t know which words to use, for example in shape, “light”, is not a common word to describe shape.
 
