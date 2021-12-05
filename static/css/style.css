@@ -1,0 +1,9 @@
+body {
+
+  color:#293d66;
+}
+.jumbotron {
+  background-image: url("../images/space.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
